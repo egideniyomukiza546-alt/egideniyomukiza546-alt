@@ -26,7 +26,7 @@
 
 ---
 
-## 👨🏽‍💻 About Me
+##  About Me
 
 I am a **Software Engineering student at the University of Lay Adventists of Kigali (UNILAK)** with a strong interest in building practical software systems, full-stack applications, and database-driven solutions.
 
@@ -34,11 +34,11 @@ I learn by **building real projects**, understanding how systems work internally
 
 ### Areas of Interest
 
-* 🧩 Full-Stack Application Development
-* 🏗️ Software Architecture & System Design
-* 🗄️ Relational Databases & Database Programming
-* 🔐 Application Security & Authentication
-* 📊 Business Intelligence & Data-Driven Systems
+*  Full-Stack Application Development
+*  Software Architecture & System Design
+*  Relational Databases & Database Programming
+*  Application Security & Authentication
+*  Business Intelligence & Data-Driven Systems
 * 🌐 Web Application Development
 * ☁️ Cloud & Modern Deployment Technologies
 
@@ -46,9 +46,9 @@ I learn by **building real projects**, understanding how systems work internally
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,html,css" alt="Programming Languages" />
@@ -62,7 +62,7 @@ I learn by **building real projects**, understanding how systems work internally
 
 **Application technologies:** ASP.NET Web Forms • C# • JavaScript • HTML5 • CSS3
 
-### 🗄️ Databases
+###  Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Technologies" />
@@ -72,13 +72,13 @@ I learn by **building real projects**, understanding how systems work internally
 
 `SQL Server` • `Oracle Database` • `PL/SQL` • `SQL` • `Database Design`
 
-### 🔧 Development Tools
+###  Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker" alt="Development Tools" />
 </p>
 
-### ⚙️ Engineering Practices
+###  Engineering Practices
 
 * Object-Oriented Programming
 * Relational Database Design
@@ -93,25 +93,25 @@ I learn by **building real projects**, understanding how systems work internally
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🏨 Hotel Order & Management System
+##  Hotel Order & Management System
 
 **A practical business software system designed to support hotel ordering and administrative operations.**
 
 The system focuses on digitizing real-world hotel workflows and includes functionality such as:
 
-* 👤 Customer account management
-* 🔐 User authentication
-* 🛒 Shopping cart management
-* 🍽️ Customer ordering
-* 📦 Order processing
-* 💳 Payment workflow
-* 🗄️ Database-driven product management
-* 📊 Administrative dashboard
-* 📈 Business reporting
-* 🔒 Security and session management
-* 📍 Hotel location integration
+*  Customer account management
+*  User authentication
+*  Shopping cart management
+*  Customer ordering
+*  Order processing
+*  Payment workflow
+*  Database-driven product management
+*  Administrative dashboard
+*  Business reporting
+*  Security and session management
+*  Hotel location integration
 
 ### Technology
 
@@ -121,7 +121,7 @@ The system focuses on digitizing real-world hotel workflows and includes functio
 
 ---
 
-## 🏥 Hospital Information & Database System
+##  Hospital Information & Database System
 
 A database-oriented system designed around hospital information management and operational workflows.
 
@@ -146,19 +146,19 @@ A database-oriented system designed around hospital information management and o
 
 ---
 
-## ❄️ Cold Chain Management Database
+##  Cold Chain Management Database
 
 A database system designed around cold-chain operations for an agricultural cooperative.
 
 The system models operational processes involving:
 
-* 👨‍🌾 Farmers
-* 🏢 Cooperative management
-* ❄️ Cold storage
-* ✅ Quality control
-* 🚚 Transportation
-* 🌾 Agricultural products
-* 📊 Data reporting
+*  Farmers
+*  Cooperative management
+*  Cold storage
+*  Quality control
+*  Transportation
+*  Agricultural products
+*  Data reporting
 
 ### Technology
 
@@ -170,7 +170,7 @@ The system models operational processes involving:
 
 ---
 
-# 🗄️ Database Engineering
+#  Database Engineering
 
 I have a particular interest in understanding how applications interact with data and how well-designed databases support reliable software systems.
 
@@ -196,7 +196,7 @@ I have a particular interest in understanding how applications interact with dat
 
 ---
 
-# 📊 GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 
@@ -216,7 +216,7 @@ I have a particular interest in understanding how applications interact with dat
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 I believe strong engineers are built through **continuous learning and deliberate practice**.
 
@@ -235,7 +235,7 @@ Currently developing my skills in:
 
 ---
 
-# 🎯 Career Focus
+#  Career Focus
 
 I am currently seeking opportunities where I can:
 
@@ -243,13 +243,13 @@ I am currently seeking opportunities where I can:
 
 I am particularly interested in **Software Engineering Internships** involving:
 
-* 💻 Backend Development
-* 🌐 Full-Stack Development
-* 🗄️ Database Engineering
-* 🔧 Web Application Development
-* 🧪 Software Testing
-* 🏢 Business Applications
-* 📊 Data & Systems Engineering
+*  Backend Development
+*  Full-Stack Development
+*  Database Engineering
+*  Web Application Development
+*  Software Testing
+*  Business Applications
+*  Data & Systems Engineering
 
 I am looking for an environment where I can work alongside experienced engineers, contribute to real projects, receive technical feedback, and develop strong professional engineering practices.
 
@@ -277,7 +277,7 @@ I am looking for an environment where I can work alongside experienced engineers
 
 <div align="center">
 
-### 📍 Kigali, Rwanda
+###  Kigali, Rwanda
 
 **Software Engineering Student • Builder • Continuous Learner**
 
